@@ -1,0 +1,20 @@
+#dropdown-menu-j .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-j .nav .link,
+#dropdown-menu-j .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-j .navbar,
+#dropdown-menu-j .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-j .dropdown-menu a:hover,
+#dropdown-menu-j .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-j .navbar-toggler {
+  color: #000000;
+}
